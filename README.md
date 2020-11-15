@@ -5,7 +5,6 @@ The maps are a hobby project only and neither official nor related to the game c
 
 Please feel free to share these and add issues if you'd like to see more detailed versions or spot any "bugs".
 
-
 ## The Skeld
 [Direct Link](https://raw.githubusercontent.com/cbcf/among-us-maps/master/The_Skeld.png)
 ![The Skeld map](/The_Skeld.png)
@@ -18,4 +17,6 @@ Please feel free to share these and add issues if you'd like to see more detaile
 [Direct Link](https://raw.githubusercontent.com/cbcf/among-us-maps/master/Polus.png)
 ![Polus map](/Polus.png)
 
-> Background image source: own photo
+> License: CC-BY-4.0, see LICENSE file.   <br> 
+> Background image source: own photo      <br>
+> https://github.com/cbcf/among-us-maps
